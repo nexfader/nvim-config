@@ -1,0 +1,6 @@
+require('core.options')
+require('core.functions')
+require('core.keymaps')
+require('core.lazy')
+require('core.title')
+require('core.autocmd')
